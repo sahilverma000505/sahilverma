@@ -1,34 +1,40 @@
-# Hi there, I'm [Sahil Verma] 👋
+# Hi, I'm Sahil Verma 👋
 
-Software Developer with a focus on building scalable web applications, distributed backend services, and automated testing frameworks.
+[![LinkedIn](https://www.linkedin.com/in/sahil-verma-17a9173b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/sahilverma000505)
 
-- 🔭 Currently building: Real-time full-stack web platforms
-- 🌱 Expanding skills in: Distributed systems, system design, and cloud deployments
-- 💬 Ask me about: Java, Python, React/Next.js, Node.js, and SQL
-- 📫 Reach me at: [sahilverma000505@gmail.com]
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/sahil-verma-17a9173b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Software Developer and QA / Test Automation enthusiast pursuing a Master of Computer Applications. I build scalable full-stack web applications, design automated testing workflows, and solve algorithmic optimization problems.
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Technical Stack
 
-**Languages:**  
-`Java` `Python` `JavaScript` `C++` `SQL` `HTML5` `CSS3`
+- **Languages:** Python, Java, C++, C, JavaScript, SQL
+- **Web & Backend:** Next.js, Node.js, Express, Flask, Servlets, JPA, HTML5, CSS3, Bootstrap 5
+- **Databases:** MySQL, MongoDB, Oracle, SQLite
+- **Automation & Testing:** Selenium WebDriver, Playwright, Postman, SoapUI
+- **Tools & Environments:** Git, GitHub, VS Code, Eclipse, MinGW, Linux (RHEL)
 
-**Frameworks & Libraries:**  
-`Node.js` `Express` `Next.js` `Flask` `Hibernate` `Bootstrap`
+---
 
-**Databases & Tools:**  
-`MySQL` `MongoDB` `Git` `Docker` `Postman` `VS Code` `Linux/Bash`
+### 🚀 Featured Projects
 
-**Testing & Automation:**  
-`Selenium WebDriver` `Playwright` `JUnit`
+- **SpotFree:** Real-time EV charging and parking slot booking platform built with Next.js, Bootstrap 5, Node.js, Express, MongoDB, and Socket.IO.
+- **Auto Code Plagiarism Checker:** Web application utilizing Edit Distance dynamic programming algorithms in Python to detect code similarity.
+- **Smart Garbage Collection Route Optimizer:** Streamlit-powered Python application designing dynamic routing solutions for waste logistics.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilverma000505&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma000505&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilverma000505&show_icons=true&theme=radical&hide_border=true" alt="Sahil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma000505&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [Sahil Verma](https://www.linkedin.com/in/sahil-verma-17a9173b2/)
+- **Portfolio / Email:** *Add your preferred contact link or email here*
