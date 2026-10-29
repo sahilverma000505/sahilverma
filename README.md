@@ -27,14 +27,17 @@ Software Developer and QA / Test Automation enthusiast pursuing a Master of Comp
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilverma000505&show_icons=true&theme=radical&hide_border=true" alt="Sahil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma000505&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sahilverma000505&show_icons=true&theme=radical&hide_border=true" alt="Sahil's GitHub Stats" width="100%" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma000505&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" /></td>
+  </tr>
+</table>
+
 
 ---
 
 ### 📫 Connect With Me
 
 - **LinkedIn:** [Sahil Verma](https://www.linkedin.com/in/sahil-verma-17a9173b2/)
-- **Portfolio / Email:** *Add your preferred contact link or email here*
+- **Portfolio / Email:** *sahilverma000505@gmail.com*
